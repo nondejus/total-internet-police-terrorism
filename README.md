@@ -1,5 +1,7 @@
 # total-internet-police-terrorism
 
+https://nl.wikipedia.org/wiki/Politie
+
 https://en.wikipedia.org/wiki/Blockade
 
 https://en.wikipedia.org/wiki/Internet
